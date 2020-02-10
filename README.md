@@ -14,8 +14,6 @@
     <img src = "https://img.shields.io/badge/Blog-wmathor-orange.svg">
   </a>
 </p>
-
-> 一个热爱数学的程序员，目前大三，普通三本，欢迎pull request/fork/star，蟹蟹~  
   
 或许你也刚学完编译原理，或者没有，但是你想自制一个属于自己的编程语言，那么看这个项目就对了，我将用14天设计一个简单的脚本语言
 
